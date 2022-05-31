@@ -17,7 +17,7 @@ Anschließend ```localhost:5555``` oder ```127.0.0.1:5555``` im Browser aufrufen
     |-- 📄 loesung.js             // Loesung-Code
 |-- 📂 task                       // Aufgabe
     |-- 📄 bl_daten.csv           // CSV Datei mit Bundeslaendern und Rankings
-    |-- 📄 bundesland.json        // Source-Code
+    |-- 📄 bundesland.json        // Shapes aller Bundeslaender
     |-- 📄 index.html             // Startseite
     |-- 📄 main.js                // Aufgabendatei mit TODOs
 ```
