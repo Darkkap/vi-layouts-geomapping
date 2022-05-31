@@ -11,8 +11,8 @@ Anschließend ```localhost:5555``` oder ```127.0.0.1:5555``` im Browser aufrufen
 ### Ordnerstruktur
 ```
 📂 workshop
-|-- 📂 handout                    // Handout
-|-- 📂 slides                     // Folien
+|-- 📄 handout.pdf                // Handout
+|-- 📄 slides.pdf                 // Folien
 |-- 📂 solution                   // Loesung
     |-- 📄 loesung.js             // Loesung-Code
 |-- 📂 task                       // Aufgabe
