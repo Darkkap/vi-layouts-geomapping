@@ -1,6 +1,6 @@
 # Visualisierung
 ## Projekt
-### Ordnerstruktu
+### Ordnerstruktur
 
 **Team**
 - [Lali Nurtaev](https://github.com/lnurtaev)
