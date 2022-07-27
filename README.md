@@ -1,5 +1,5 @@
 # Visualisierung
-## Projek
+## Projekt
 ### Ordnerstruktur
 
 **Team**
